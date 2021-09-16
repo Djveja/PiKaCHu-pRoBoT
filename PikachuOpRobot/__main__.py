@@ -40,7 +40,7 @@ from PikachuOpRobot.modules.helper_funcs.alternate import typing_action
 
 PM_START_TEXT = f"""
 `𝐇𝐢..𝐖𝐞𝐥𝐜𝐨𝐦𝐞`[😈](https://telegra.ph/file/1e6d0cd634730593547d2.jpg)
-`𝐈'𝐦`S𝐮kuna`😈
+`𝐈'𝐦` S𝐮kuna`😈
 `𝐈'𝐦 𝐇𝐞𝐫𝐞 𝐓𝐨 𝐇𝐞𝐥𝐩 𝐘𝐨𝐮 𝐌𝐚𝐧𝐚𝐠𝐞 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩𝐬.. 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐥𝐩 𝐁𝐮𝐭𝐭𝐨𝐧 𝐓𝐨 𝐅𝐢𝐧𝐝 𝐎𝐮𝐭 𝐌𝐨𝐫𝐞 𝐀𝐛𝐨𝐮𝐭 𝐇𝐨𝐰 𝐓𝐨 𝐔𝐬𝐞 𝐌𝐞 𝐓𝐨 𝐌𝐲 𝐅𝐮𝐥𝐥 𝐏𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥..`
 """
 
@@ -176,7 +176,7 @@ def start(update, context):
                 disable_web_page_preview=False,
             )
     else:
-        update.effective_message.reply_text("𝐇𝐞𝐲𝐚...,�Sukuna 🔥 𝐇𝐞𝐫𝐞,𝐇𝐨𝐰 𝐂𝐚𝐧 𝐈 𝐇𝐞𝐥𝐩 𝐘𝐨𝐮? 🧐")
+        update.effective_message.reply_text("𝐇𝐞𝐲𝐚...,Sukuna 🔥 𝐇𝐞𝐫𝐞,𝐇𝐨𝐰 𝐂𝐚𝐧 𝐈 𝐇𝐞𝐥𝐩 𝐘𝐨𝐮? 🧐")
 
 
 
