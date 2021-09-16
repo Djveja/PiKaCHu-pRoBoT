@@ -49,7 +49,7 @@ buttons = [[InlineKeyboardButton(text="🖤 𝐇𝐞𝐥𝐩 𝐀𝐧𝐝 𝐂�
 ]]
 
 buttons += [[InlineKeyboardButton(text="👾 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 👾",
-                                  url="t.me/Pikachu_op_robot?startgroup=true"),
+                                  url="t.me/sukuna78bot?startgroup=true"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="🎉 𝐉𝐨𝐢𝐧 𝐅𝐨𝐫 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎉",
